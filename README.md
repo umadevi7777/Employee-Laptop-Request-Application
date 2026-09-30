@@ -17,5 +17,6 @@ Approval rules and request conditions are defined. Security controls and role‑
 Deployment, Final Presentation & Conclusion  
 The application is deployed in the live environment. Final testing and user acceptance are conducted. The project is presented and summarized with key outcomes.
 
-📄 Documentation
-👉 Project Documentation ([drive.google.com in Bing](https://drive.google.com/drive/folders/1docqVwV66nJ9A7_dqbZy0DmDEaEEQUtW?usp=sharing))
+## 📄 Documentation  
+👉 [Project Documentation]((https://drive.google.com/drive/folders/1docqVwV66nJ9A7_dqbZy0DmDEaEEQUtW?usp=sharing)){:target="_blank"}
+
